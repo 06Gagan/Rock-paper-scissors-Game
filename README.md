@@ -1,3 +1,3 @@
 # Rock-paper-scissors-Game
 
-By using basice Java, HTML and CSS.
+By using the basics of JavaScript, HTML, and CSS.
